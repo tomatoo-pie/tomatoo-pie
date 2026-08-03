@@ -1,8 +1,8 @@
-<h1 data-importer="text" align="left">Hey there👋What's Up?<br>I'm Mohammad Asad</h1>
+<h1 data-importer="text" align="center">Hey there👋What's Up?<br>I'm Mohammad Asad</h1>
 
 ###
 
-<h2 data-importer="text" align="left">I'm a Computer Science undergraduate specializing in Software Engineering at SRM Institute of Science and Technology. I enjoy building scalable web applications, solving algorithmic problems, and continuously improving my software development skills. I'm passionate about writing clean, efficient code and turning ideas into practical solutions.</h2>
+<h2 data-importer="text" align="center">A Computer Science undergraduate specializing in Software Engineering at SRM Institute of Science and Technology. I enjoy building scalable web applications, solving algorithmic problems, and continuously improving my software development skills. I'm passionate about writing clean, efficient code and turning ideas into practical solutions.</h2>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<div data-importer="techs" align="left">
+<div data-importer="techs" align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
@@ -102,6 +102,36 @@
 
 ###
 
+<h2 data-importer="text" align="center">Contributions</h2>
+
+###
+
+<div data-importer="stats" align="left">
+  <img src="https://raw.githubusercontent.com/tomatoo-pie/tomatoo-pie/activity-graph-output/activity-graph.svg?radius=16&theme=tokyo-night&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tomatoo-pie/tomatoo-pie/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tomatoo-pie/tomatoo-pie/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tomatoo-pie/tomatoo-pie/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+</picture>
+
+###
+
+<h2 data-importer="text" align="center">A Visual Representation of my Everyday Struggle</h2>
+
+###
+
+<div data-importer="image" align="center">
+  <img data-importer="image" height="773" src="https://i.gifer.com/JwN.gif"  />
+</div>
+
+###
+
 <h4 data-importer="text" align="center">Connect With Me on these Platforms !!</h4>
 
 ###
@@ -119,29 +149,6 @@
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=jrjtXGlDkVZLggmmNrvSrvmfPrrllQrRBPsJPwXJLZLTBnknWphZNqHnkcRrrFVtSMfHPhxF" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-</div>
-
-###
-
-<br clear="both">
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tomatoo-pie/tomatoo-pie/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tomatoo-pie/tomatoo-pie/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tomatoo-pie/tomatoo-pie/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-</picture>
-
-###
-
-<div data-importer="stats" align="left">
-  <img src="https://streak-stats.demolab.com?user=tomatoo-pie&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&order=3" height="300" alt="streak graph" /> <br>
-  <img src="https://raw.githubusercontent.com/tomatoo-pie/tomatoo-pie/activity-graph-output/activity-graph.svg?radius=16&theme=tokyo-night&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<div data-importer="image" align="center">
-  <img data-importer="image" height="773" src="https://i.gifer.com/JwN.gif"  />
 </div>
 
 ###
