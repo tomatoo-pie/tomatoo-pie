@@ -134,9 +134,8 @@
 ###
 
 <div data-importer="stats" align="left">
-  <img src="https://streak-stats.demolab.com?user=tomatoo-pie&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&order=3" height="87" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/tomatoo-pie/tomatoo-pie/languages-output/languages.svg?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=true&order=2" height="197" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/tomatoo-pie/tomatoo-pie/activity-graph-output/activity-graph.svg?radius=16&theme=tokyo-night&area=true&order=5&hide_border=true" height="219" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=tomatoo-pie&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&order=3" height="300" alt="streak graph" /> <br>
+  <img src="https://raw.githubusercontent.com/tomatoo-pie/tomatoo-pie/activity-graph-output/activity-graph.svg?radius=16&theme=tokyo-night&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
