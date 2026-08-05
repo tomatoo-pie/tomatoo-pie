@@ -126,13 +126,13 @@
 
 <br clear="both">
 
-<table align="center">
+<table width="100%">
   <tr>
-    <td>
-      <img width="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXFyaHoxN2k2ZG5qd29xZzlqMGQwbmJ1azRkZDNvajkyY2o4czgxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dea0leKapJzJC/giphy.gif" />
+    <td width="50%" align="center">
+      <img width="100%" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXFyaHoxN2k2ZG5qd29xZzlqMGQwbmJ1azRkZDNvajkyY2o4czgxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dea0leKapJzJC/giphy.gif">
     </td>
-    <td>
-      <img width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWtnZTV5Ym9vN3ZrNmxxMGx0d21nemk1cTR3Zzdmd2J6Y2VmYWN5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jITHv5CgLbc2jCrSKX/giphy.gif" />
+    <td width="50%" align="center">
+      <img width="100%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWtnZTV5Ym9vN3ZrNmxxMGx0d21nemk1cTR3Zzdmd2J6Y2VmYWN5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jITHv5CgLbc2jCrSKX/giphy.gif">
     </td>
   </tr>
 </table>
