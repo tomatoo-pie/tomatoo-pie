@@ -112,8 +112,6 @@
 
 ###
 
-<br clear="both">
-
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tomatoo-pie/tomatoo-pie/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tomatoo-pie/tomatoo-pie/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
@@ -126,8 +124,10 @@
 
 ###
 
+<br clear="both">
+
 <div data-importer="image" align="center">
-  <img data-importer="image" height="773" src="https://i.gifer.com/JwN.gif"  />
+  <img data-importer="image" height="400" src="https://cdn.imageurlgenerator.com/uploads/73e50f42-1b7f-480a-b1d9-c14f07f1064c.gif"  />
 </div>
 
 ###
