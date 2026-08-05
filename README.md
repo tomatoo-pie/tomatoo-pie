@@ -126,8 +126,9 @@
 
 <br clear="both">
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="400" src="https://cdn.imageurlgenerator.com/uploads/73e50f42-1b7f-480a-b1d9-c14f07f1064c.gif"  />
+<div align="center">
+  <img height="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXFyaHoxN2k2ZG5qd29xZzlqMGQwbmJ1azRkZDNvajkyY2o4czgxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dea0leKapJzJC/giphy.gif" />
+  <img height="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWtnZTV5Ym9vN3ZrNmxxMGx0d21nemk1cTR3Zzdmd2J6Y2VmYWN5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jITHv5CgLbc2jCrSKX/giphy.gif" />
 </div>
 
 ###
